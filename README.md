@@ -1,2 +1,2 @@
 # edyarr.github.io
-Afrolatinx adn Critical DH Beyond DH
+Afrolatinx and Critical DH Beyond DH

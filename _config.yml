@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Afrolatinx and Critical DH beyond DH"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Eduard Arriaga"
+description              : "This is a space to publish my research on Afrolatinx culture and DH, as well as to discuss issues and topics related to critical DH, black DH, and what I would call communitarian DH (DH done by communities beyond the academe)."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : edyarr/edyarr.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Eduard Arriaga"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Assistant Professor in the Department of Global Languages and Cross-Cultural Studies @Uindy."
+  location         : "Indianapolis, IN., US."
+  email            : "arriagae@uindy.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,13 +119,13 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "@eduard_arriaga"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "edyarr"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
@@ -292,3 +292,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values: 
+      layout: single
+      author_profile: true
+      
+

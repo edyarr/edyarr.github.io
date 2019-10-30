@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 header:
-    image: "Desktop/edyarr.github.io/images/header_image.jpg"
+    image: "/images/header_image.jpg"
 ---
 
 # About

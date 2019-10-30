@@ -6,8 +6,10 @@ header:
     image: "Desktop/edyarr.github.io/images/header_image.jpg"
 ---
 
-Afrolatinx and Critical DH Beyond DH is a speace devoted to discuss the productive interconnection between Afrolatinx communities and digital media. Likewise, I will discuss DH from critical perspectives, paying particular attention to digital initiatives carried out by communities beyond the academe, as a way to recovery alternative ways to be human and to be represented as human.  
+# About
+Afrolatinx and Critical DH Beyond DH is a speace devoted to discuss the productive interconnection between Afrolatinx communities and digital media. Likewise, we will discuss DH from critical perspectives, paying particular attention to digital initiatives carried out by communities beyond the academe, as a way to recovery alternative ways to be human and speak back to our current algorithmic culture.
 
-{% for post in site.posts %}
-   {% include archive-single.html %}
-{% endfor %}
+## What we expect
+We expect to engage discussions around race, ethnicity and the digital. We expect to interact with diverse individuals and communities and create an space for creativity to happen. 
+
+

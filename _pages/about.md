@@ -11,5 +11,16 @@ Afrolatinx and Critical DH Beyond DH is a speace devoted to discuss the producti
 
 ## What we expect
 We expect to engage discussions around race, ethnicity and the digital. We expect to interact with diverse individuals and communities and create an space for creativity to happen. 
+[jekyllrb.com](https://jekyllrb.com/)
 
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minimal mistakes](hhttps://mmistakes.github.io/minimal-mistakes/)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
 

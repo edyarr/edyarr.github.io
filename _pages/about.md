@@ -1,7 +1,7 @@
 ---
 layout: "pages"
-title: About
-permalink: /about/
+title: "About"
+permalink: "/about/"
 header:
     image: "/images/header_image.jpg"
 ---

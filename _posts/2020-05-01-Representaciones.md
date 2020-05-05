@@ -8,10 +8,11 @@ categories: articles
 ---
 
 This article was orginally published in the Journal *Afrolatinoproject Org* in 2013. Unfortunatelly, the site is
-currently down, which speaks about the fragility of the digital projects developed to document the Afrolatinx experience
-as well as the lack of resources to sustain powerful projects such as Afrolatino Project. 
+currently down. This speaks about the fragility of digital projects developed to document the Afrolatinx experience
+as well as the lack of resources to sustain some of the projects that emerge. However, Afrolatino project continues to have a web presence through its [Youtube channel](https://www.youtube.com/channel/UCYD7gXdS_5qiMf3o5slFeGQ).   
 
-# Representaciones, escalas e identidades afrodescendientes en la era digital. 
+Representaciones, escalas e identidades afrodescendientes en la era digital.
+============================================================================
 ## Búsquedas personales, proyectos globales e interconexión
 
 Los temas relacionados con las culturas afrodescendientes y africanas parecen estar en la agenda del mundo actual. 
@@ -22,7 +23,9 @@ Sin embargo, la pregunta por la identidad, el patrimonio, la representación y l
 los sujetos clasificados, reconocidos y auto-reconocidos en esta categoría cultural global. Tal como lo propuso Frantz 
 Fanon desde el psicoanálisis y desde la perspectiva poscolonial de sus escritos, el hombre negro siempre se preguntará y 
 se cuestionará acerca de su negritud.  Si esto lo ponemos en el doble contexto de lo racial y lo étnico, deberíamos afirmar 
-entonces que el hombre afro-descendiente se cuestiona constantemente sobre su afro-descendencia. 
+entonces que el hombre afro-descendiente se cuestiona constantemente sobre su afro-descendencia.
+
+
 Mi caso, entonces, como afrodescendiente, afrolatino, colombiano, latino, latinoamericano, negro, bogotano, etc., no ha sido distinto. 
 Me he preguntado por esas identidades que, a veces impuestas, otras veces aceptadas, marcan nuestro camino. Algunas veces como búsquedas 
 personales, otras como cuestionamientos a las clasificaciones impuestas por ‘otros’, por la tradición, dichas preguntas han alimentado mis 
@@ -31,7 +34,9 @@ sociedad que intenta promover el reconocimiento multicultural como una forma de 
 invisibilización histórica de sus múltiples culturas- hasta Canadá –una sociedad multicultural en la que la diversidad se convierte en slogan
 publicitario de un producto que a veces no existe. Ese viaje     –físico, simbólico y cultural en general- me permitió 
 explorar algunas preguntas de larga duración que acompañan al hombre negro, al afrodescendiente, y, asimismo, preguntar y responder 
-nuevos cuestionamientos. 
+nuevos cuestionamientos.
+
+
 Esas nuevas preguntas se convirtieron en proyectos de investigación, y las respuestas en acciones concretas. Con la primera pregunta, desarrollé 
 un recorrido por discursos, formas de representación e imágenes que no estaban tradicionalmente relacionadas con lo afrodescendiente, pero que, 
 tras revisar, se mostraban como constituyentes de una imagen universalizada, cambiante y con diferentes niveles. ¿Qué es lo afrodescendiente y lo 
@@ -53,7 +58,9 @@ determinado y siguen determinando las formas de ver, de verse y de ser represent
 el arte en muchos casos es visto como entretenimiento, pero cuando se habla de lo africano, de lo afrodescendiente y de las culturas negras, 
 las expresiones artísticas son inseparables de las expresiones políticas así como de las luchas sociales. En ese sentido, el modelo de 
 “la red de representaciones artísticas de lo afrodescendiente” se constituyó en una imagen, una escala particular de una red más amplia 
-referente a las representaciones y auto-representaciones de lo africano y lo afrodescendente en otros ámbitos de la vida.
+referente a las representaciones y auto-representaciones de lo africano y lo afrodescendiente en otros ámbitos de la vida.
+
+
 Esa red me permitió ver lo afrodescendiente y lo africano como un sinnúmero de representaciones en relaciones complejas (es decir,
 no necesariamente lineales). Una red con diferentes escalas y niveles de representación dependiendo de las locaciones, los actores y los contextos. 
 Es decir, esta red representaba las complejidades de las identidades tal como han sido explicadas por Stuart Hall y otros investigadores del asunto. 
@@ -71,14 +78,18 @@ un espacio discursivo móvil del cual se entra y se sale de acuerdo a los contex
 políticos, culturales, educativos, artísticos, etc.); e)exaltación y liderazgo de lo femenino dentro de una red cultural tradicionalmente 
 representada desde una perspectiva patriarcal y masculina.  Finalmente, uno de los elementos más interesantes tuvo que ver con el uso y la 
 interacción que estos actores contemporáneos desarrollan con herramientas digitales, usadas no sólo para llevar a cabo sus representaciones 
-de lo afrodescendiente, sino, sobre todo, para difundir sus trabajos y establecer redes de contacto. 
+de lo afrodescendiente, sino, sobre todo, para difundir sus trabajos y establecer redes de contacto.
+
+
 A partir de este último hallazgo han surgido un sinnúmero más de perspectivas, iniciativas e ideas. Una de ellas tiene que ver con preguntarse 
 por las formas de representación y autorepresentación de activistas, artistas y escritores afrodescendientes en lo que ha dado en llamarse la era 
 digital. Desde luego, el uso de redes sociales, telefonía móvil, redes de video, así como herramientas digitales de representación y auto-representación, 
 ha permitido establecer unos procesos de empoderamiento, resistencia y conservación-innovación en los patrimonios culturales. Este proyecto es una 
 idea que comienza a concretarse con investigación inicial, discusiones y participación en eventos diversos donde se pueden debatir y enriquecer estas 
 ideas. Es por ello que el espacio de este magazín y del proyecto Afrolatin@ es muy importante, en la medida en que es posible establecer nuevas 
-conexiones y nuevos escenarios de debate y construcción. 
+conexiones y nuevos escenarios de debate y construcción.
+
+
 Es innegable el poder de lo digital en la contemporaneidad. Yo lo he experimentado, desde mis búsquedas personales hasta las preguntas profesionales 
 en las que se han convertido los proyectos descritos. No estoy hablando de las promesas incumplidas de lo tecnológico, ni de la división en cuanto 
 al acceso a tecnologías inalcanzables para personas a las que se les ha denegado el acceso a derechos y beneficios básicos. Estoy tratando de mostrar 

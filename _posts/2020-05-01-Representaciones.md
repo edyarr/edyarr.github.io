@@ -11,8 +11,8 @@ This article was orginally published in the Journal *Afrolatinoproject Org* in 2
 currently down, which speaks about the fragility of the digital projects developed to document the Afrolatinx experience
 as well as the lack of resources to sustain powerful projects such as Afrolatino Project. 
 
-#Representaciones, escalas e identidades afrodescendientes en la era digital. 
-##Búsquedas personales, proyectos globales e interconexión
+# Representaciones, escalas e identidades afrodescendientes en la era digital. 
+## Búsquedas personales, proyectos globales e interconexión
 
 Los temas relacionados con las culturas afrodescendientes y africanas parecen estar en la agenda del mundo actual. 
 No en vano la Organización de Naciones Unidas en su cumbre de Durbán declaró el 2011 como año internacional de la afrodescendencia; 

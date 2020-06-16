@@ -1,6 +1,6 @@
 ---
 title: "Black Solidarity Network"
-layout: single
+layout: "page"
 permalink: /black-solidarity-network/
 author_profile: true
 heather: 
@@ -26,5 +26,4 @@ article published in 2013.
 Base on that initial experience, I started to think the initial network as a possibility for collaboration with other
 interested researchers, practitioners, and community members. However, in order to do that, I needed to make the network
 available so anyone could contribute. This is when I decided to work with NodeJ and, in collaboration with [Life Spring Interactive](http://lifespringinteractive.ca/)
-created the platform the can visit via the link anchored to the above image. The idea of this database is to start collaborating 
-with diverse community member who may have information and be interested in identifying hiden connections.  
+created the platform the can visit via the link anchored to the above image. The idea of this database is to start collaborating with diverse community member who may have information and be interested in identifying hiden connections.  

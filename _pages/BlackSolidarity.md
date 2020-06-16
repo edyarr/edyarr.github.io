@@ -1,8 +1,6 @@
 ---
-title: "Black Solidarity Network"
 layout: "page"
-permalink: /black-solidarity-network/
-author_profile: true
+title: "Black Solidarity Network"
 heather: 
     imimage: "/images/header_2_image.jpg"
 ---

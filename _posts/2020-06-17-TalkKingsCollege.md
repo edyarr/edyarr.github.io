@@ -11,7 +11,7 @@ This is the talk presented at the *Disrupting Digital Monolingualism* workshop a
 
 ## Language and Technology Decolonization as a Disruption to Digital Monolingualism
 
-![Cover](/images/Slide_0.png)
+![Cover](/images/MonoLing/Slide_0.png)
 
 I’d like to start by going over some points of departure, so I can set the tone of my talk. First, digital technology in general and the internet in particular have never been global if by global we understand connected to most if not all location/communities on the globe. On the contrary, these technologies have been developed from and by centers related to imperial and colonial traditions, disseminated by algorithmic practices that shrink the world by overlooking differences, and are presented as free, open, and disembodied, so anyone, any culture, any language, any human being can use them.
 

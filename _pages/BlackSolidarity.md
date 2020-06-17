@@ -1,5 +1,5 @@
 ---
-layout: "page"
+
 title: "Black Solidarity Network"
 permalink: /BlackSolidarity/
 heather: 

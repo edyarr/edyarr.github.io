@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: "Black Solidarity Network"
 permalink: /BlackSolidarity/
 

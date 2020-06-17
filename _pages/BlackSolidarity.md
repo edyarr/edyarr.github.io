@@ -2,16 +2,11 @@
 
 title: "Black Solidarity Network"
 permalink: /BlackSolidarity/
-heather: 
-    image: /images/BlackSPage/heather_AG.jpg
-    caption: "Photo credit: [Alina Grubnyak on *UNsplash*](https://unsplash.com/photos/R84Oy89aNKs)"
+
 
 ---
 
 
-
-![Model](/images/BlackSPage/Network_I.png)
-[Black Solidarity Network](http://lifespringinteractive.ca/Network/)
 
 *The Black Solidarity Network* project is an initiative that was born from what, back in 2011, I called
 *The Network of African and African-Descendant Artistic Representation*. That initial project emerged from the close reading of 

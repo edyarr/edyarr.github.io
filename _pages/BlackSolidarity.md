@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Black Solidarity Network
-permalink: /BlackSolidarity/
+title: "Black Solidarity Network"
+permalink: _pages/BlackSolidarity/
 
 
 ---

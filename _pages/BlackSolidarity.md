@@ -2,12 +2,15 @@
 layout: "page"
 title: "Black Solidarity Network"
 permalink: /black-solidarity/
+heather: 
+    image: /images/BlackSPage/heather_AG.jpg
+    caption: "Photo credit: [Alina Grubnyak on *UNsplash*](https://unsplash.com/photos/R84Oy89aNKs)"
 
 ---
 
 
 
-![Model](/images/Network_I.png)
+![Model](/images/BlackSPage/Network_I.png)
 [Black Solidarity Network](http://lifespringinteractive.ca/Network/)
 
 *The Black Solidarity Network* project is an initiative that was born from what, back in 2011, I called

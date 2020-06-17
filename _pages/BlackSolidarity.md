@@ -4,10 +4,11 @@ title: "Black Solidarity Network"
 permalink: /black-solidarity/
 header: 
     image: /images/BlackSPage/heather_AG.jpg
-    caption: "Photo credit: [Alina Grubnyak on *UNsplash*](https://unsplash.com/photos/R84Oy89aNKs)"
+    caption: "Photo credit: [Alina Grubnyak on *Unsplash*](https://unsplash.com/photos/R84Oy89aNKs)"
 
 ---
 ![Model](/images/BlackSPage/Network_I.png)
+
 [Black Solidarity Network](http://lifespringinteractive.ca/Network/)
 
 

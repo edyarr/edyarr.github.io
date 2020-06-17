@@ -12,7 +12,10 @@ This is the talk presented at the *Disrupting Digital Monolingualism* workshop a
 ## Language and Technology Decolonization as a Disruption to Digital Monolingualism
 
 ![Cover](/images/Slide_0.png)
-I’d like to start by going over some points of departure, so I can set the tone of my talk. First, digital technology in general and the internet in particular have never been global if by global we understand connected to most if not all location/communities on the globe. On the contrary, these technologies have been developed from and by centers related to imperial and colonial traditions, disseminated by algorithmic practices that shrink the world by overlooking differences, and are presented as free, open, and disembodied, so anyone, any culture, any language, any human being can use them. 
+
+I’d like to start by going over some points of departure, so I can set the tone of my talk. First, digital technology in general and the internet in particular have never been global if by global we understand connected to most if not all location/communities on the globe. On the contrary, these technologies have been developed from and by centers related to imperial and colonial traditions, disseminated by algorithmic practices that shrink the world by overlooking differences, and are presented as free, open, and disembodied, so anyone, any culture, any language, any human being can use them.
+
+![Slide 1](/images/Slide_I.png)
 
 However, we tend to forget and misunderstand technology and its effects when we pretend they operate outside of human bodies and human relations. As Siva Vaidhyanathan (2018) would propose talking about digital media, “we are all embedded in the data network that would constitute the operative system of our lives”, meaning that if we want to understand the very networks and technologies we see as mere tools to achieve ends, we need to start looking at our deepest values on which such technological innovations are built. In summary technology is culture the same way as culture is a type of technology. 
 

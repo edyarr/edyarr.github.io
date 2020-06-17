@@ -2,6 +2,9 @@
 
 title: "Black Solidarity Network"
 permalink: /black-solidarity/
+heather: 
+    image: /images/BlackSPage/heather_AG.jpg
+    caption: "Photo credit: [Alina Grubnyak on *UNsplash*](https://unsplash.com/photos/R84Oy89aNKs)"
 
 ---
 

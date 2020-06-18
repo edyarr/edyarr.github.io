@@ -15,7 +15,7 @@ header:
 
 
 
-![DMining Network](/images/MiningP/MinigNetwork.png)
+![DMining Network](/images/MiningP/MiningNetwork.png)
 
 [DMining Network](http://www.lifespringinteractive.ca/Mining/Topic%20Maps/gexf-js-master/)
 

@@ -5,7 +5,7 @@ main:
   - title: "Black Solidarity Network"
     url: /black-solidarity/
   - title: "Mining and Data Mining"
-  url: /mining/
+    url: /mining/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

@@ -8,21 +8,17 @@ header:
 
 ---
 
-<center>
 
 ![DMining Browser](/images/MiningP/MiningBrowser.png)
 
 [DMining Browser](http://www.lifespringinteractive.ca/Mining/Image%20Search/index.php?q=mining)
 
-<center>
 
-<center>
 
 ![DMining Network](/images/MiningP/MinigNetwork.png)
 
 [DMining Network](http://www.lifespringinteractive.ca/Mining/Topic%20Maps/gexf-js-master/)
 
-<center>
 
 **Mining and (Data)Mining**
 

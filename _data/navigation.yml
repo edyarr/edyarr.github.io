@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Black Solidarity Network"
     url: /black-solidarity/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Mining and Data Mining"
+  url: /mining/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
